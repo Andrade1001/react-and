@@ -1,0 +1,26 @@
+.main-panel {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+  height: 100vh;
+}
+
+.main-logo {
+ width: 3.5vw;
+ height: 7vh;
+ margin: 10px 40px 10px 40px;
+}
+
+header{
+  display: flex;
+  flex-direction: row;
+  width: 100vw;
+  height: 10vh;
+  background-color: bisque;
+
+}
+
+.titulo{
+  font-size: 100%;
+  margin: 30px 0px 0px 0px;
+}
